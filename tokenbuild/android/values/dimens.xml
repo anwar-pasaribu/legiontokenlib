@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly
+  Generated on Mon, 14 Feb 2022 17:24:37 GMT
+-->
+<resources>
+  <dimen name="size_button_radius_sm">4.00dp</dimen>
+  <dimen name="size_button_radius_lg">8.00dp</dimen>
+  <dimen name="size_button_radius_xl">300.00dp</dimen>
+  <dimen name="size_button_padding_top">8.00dp</dimen>
+  <dimen name="size_button_padding_bottom">8.00dp</dimen>
+  <dimen name="size_button_padding_left">16.00dp</dimen>
+  <dimen name="size_button_padding_right">16.00dp</dimen>
+  
+</resources>
